@@ -1,6 +1,6 @@
 # XVI Campaña Ordenadores Libres con Software Libre: Manual de usuario
 
-![](images/cc_icon.png)
+![](imagenes/cc_icon.png)
 
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -11,25 +11,25 @@ Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercia
 
 ### Índice
 
-* Iniciar el equipo
-  * Cuenta de usuario
-  * Poner en hora el equipo
-* Programas básicos instalados
-  * Firefox
-  * LibreOffice
-  * Gedit
-  * Gimp
-  * Vlc
-  * Tux Paint
-* Administración del sistema
-  * Sistema de archivos
-* Instalar programas
-  * Desde gestor de paquetes Synaptic
-  * Centro de Software de Ubuntu
-* Otras formas de instalar programas
-  * Descargando el paquete desde la página web de la aplicación
-* Sistema de archivos
-* Contacto
+* [Iniciar el equipo](#2)
+  * [Cuenta de usuario](#1_1)
+  * [Poner en hora el equipo](#1_1)
+* [Programas básicos instalados](#2)
+  * [Firefox](#2_1)
+  * [LibreOffice](#2_2)
+  * [Gedit](#2_3)
+  * [Gimp](#2_4)
+  * [Vlc](#2_5)
+  * [Tux Paint](#2_6)
+* [Administración del sistema](#3)
+  * [Sistema de archivos](#3_1)
+* [Instalar programas](#4)
+  * [Desde gestor de paquetes Synaptic](#4_1)
+  * [Centro de Software de Ubuntu](#4_2)
+* [Otras formas de instalar programas](#5)
+  * [Descargando el paquete desde la página web de la aplicación](#5_1)
+* [Sistema de archivos](#6)
+* [Contacto](#7)
 
 
 
@@ -45,7 +45,7 @@ Esta primera opción se seleccionará automáticamente al cabo de unos segundos 
 
 El escritorio será algo parecido a la siguiente imagen donde indicamos los elementos principales:
 
-![](images/1.png)
+![](imagenes/1.png)
 
 Un [sistema operativo](http://es.wikipedia.org/wiki/Sistema_operativo) es el conjunto de programas básicos y utilidades que hacen que funcione su equipo. El sistema operativo instalado es un [Ubuntu](https://es.wikipedia.org/wiki/Ubuntu) que es una versión de Linux.
 
@@ -72,12 +72,12 @@ Diríjase a:
 
 Tal y como se muestra en la siguiente imagen:
 
-![](images/2.png)
+![](imagenes/2.png)
 
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
 > Contraseña: osloslugr
 
-![](images/7.png)
+![](imagenes/7.png)
 
 Ahora podemos poner la hora y la fecha actuales. Si vuelve a pedir una contraseña se debe de introducir la de usuario, indicada en el recuadro anterior.
 
@@ -90,7 +90,7 @@ El equipo tiene instalados por defecto diversas aplicaciones libres que abarcan 
 
 Firefox es uno de los navegadores que viene con el sistema operativo, su funcionalidad con este navegador es la de poder acceder a internet, además de poder abrir incluso ficheros de texto y más.
 
-![](images/firefox_icon.png)
+![](imagenes/firefox_icon.png)
 
 Para usar la aplicación diríjase a:
 
@@ -102,7 +102,7 @@ Para usar la aplicación diríjase a:
 
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.
 
-![](images/libreoffice_icon.png)
+![](imagenes/libreoffice_icon.png)
 
 Para usar la aplicación diríjase a:
 
@@ -115,7 +115,7 @@ Seleccione en este último lugar la aplicación que desee según quiera trabajar
 
 Gedit es una aplicación que sirve para editar ficheros de texto plano. Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de formato, redactar o tomar notas respecto de algo hasta poder editar archivos de páginas web o archivos pertenecientes a un programa.
 
-![](images/gedit_icon.png)
+![](imagenes/gedit_icon.png)
 
 Para usar la aplicación diríjase a:
 
@@ -128,7 +128,7 @@ Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratu
 
 También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones, sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos otros.
 
-![](images/gimp_icon.png)
+![](imagenes/gimp_icon.jpg)
 
 Para usar la aplicación diríjase a:
 
@@ -139,7 +139,7 @@ Para usar la aplicación diríjase a:
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4, ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.
 
-![](images/vlc_icon.jpg)
+![](imagenes/vlc_icon.jpg)
 
 Para usar la aplicación diríjase a:
 
@@ -158,7 +158,7 @@ Y seleccionar el archivo deseado. También puede crear una lista de reproducció
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.
 
-![](images/tux_paint.png)
+![](imagenes/tux_icon.png)
 
 Para usar la aplicación diríjase a:
 
@@ -179,7 +179,7 @@ Dentro del sistema de carpetas nos podemos mover entrando a ellas de la misma fo
 
 En la siguiente imagen se puede ver de forma gráfica lo explicado:
 
-![](images/sistema_archivos.png)
+![](imagenes/sistema_archivos.png)
 
 Como vemos la información se representa como si fuera un árbol invertido, donde la raíz del árbol es del directorio indicado por / y a su vez cuelgan más directorios indicados por los recuadros y los ficheros que podemos acceder.
 
@@ -216,15 +216,15 @@ Por último para proceder a la instalación pincharemos en el botón de **Aplica
 
 Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se nos ejecutará la aplicación, teniendo una interfaz parecida a la siguiente:
 
-![](images/12.png)
+![](imagenes/12.png)
 
-![](images/13.png)
+![](imagenes/13.png)
 
-![](images/14.png)
+![](imagenes/15.png)
 
 <h3 id="5">Centro Software de Ubuntu</h3>
 
-![](images/16.png)
+![](imagenes/16.png)
 
 <h4 id="5_1">Descargando el paquete desde la página web de la aplicación</h4>
 
@@ -232,13 +232,13 @@ Los paquetes son archivos acabados en **.deb** que al ejecutarlos instalan en nu
 
 Para iniciar basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña antes mencionada.
 
-<h3 id="5">Sistema de archivos</h3>
+<h3 id="6">Sistema de archivos</h3>
 Todo sistema operativo tiene lo que se llama el sistema de archivos (o sistema de ficheros), esta parte del sistema operativo estructura la información guardada en una unidad de almacenamiento (normalmente un disco duro de una computadora), que luego será representada ya sea textual o gráficamente utilizando un [gestor de archivos](http://es.wikipedia.org/wiki/Gestor_de_archivos). La mayoría de los [sistemas operativos](http://es.wikipedia.org/wiki/Sistemas_operativos) manejan su propio sistema de archivos.
 
 Existen diversos tipos tales como ***ext2***, ***ext3***, ***ext4*** que son los tipos nativos de Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas hasta llegar a las hojas.
 
 
-<h3 id="6">Contacto</h3>
+<h3 id="7">Contacto</h3>
 En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la oficina de Software Libre:
 
 > Blog de la OSL: [osl.ugr.es](http://osl.ugr.es/)
