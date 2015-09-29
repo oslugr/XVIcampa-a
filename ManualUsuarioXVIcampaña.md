@@ -11,9 +11,9 @@ Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercia
 
 ### Índice
 
-* [Iniciar el equipo](#2)
+* [Iniciar el equipo](#1)
   * [Cuenta de usuario](#1_1)
-  * [Poner en hora el equipo](#1_1)
+  * [Poner en hora el equipo](#1_2)
 * [Programas básicos instalados](#2)
   * [Firefox](#2_1)
   * [LibreOffice](#2_2)
@@ -26,10 +26,10 @@ Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercia
 * [Instalar programas](#4)
   * [Desde gestor de paquetes Synaptic](#4_1)
   * [Centro de Software de Ubuntu](#4_2)
-* [Otras formas de instalar programas](#5)
-  * [Descargando el paquete desde la página web de la aplicación](#5_1)
-* [Sistema de archivos](#6)
-* [Contacto](#7)
+  *  [Otras formas de instalar programas](#4_3)
+    * [Descargando el paquete desde la página web de la aplicación](#4_3_1)
+* [Sistema de archivos](#5)
+* [Contacto](#6)
 
 
 
@@ -222,23 +222,24 @@ Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se n
 
 ![](imagenes/15.png)
 
-<h3 id="5">Centro Software de Ubuntu</h3>
+<h3 id="4_2">Centro Software de Ubuntu</h3>
 
 ![](imagenes/16.png)
 
-<h4 id="5_1">Descargando el paquete desde la página web de la aplicación</h4>
+<h3 id="4_3">Otras formas de instalar programas</h3>
+<h4 id="4_3_1">Descargando el paquete desde la página web de la aplicación</h4>
 
 Los paquetes son archivos acabados en **.deb** que al ejecutarlos instalan en nuestro ordenador el programa de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb**.
 
 Para iniciar basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña antes mencionada.
 
-<h3 id="6">Sistema de archivos</h3>
+<h3 id="5">Sistema de archivos</h3>
 Todo sistema operativo tiene lo que se llama el sistema de archivos (o sistema de ficheros), esta parte del sistema operativo estructura la información guardada en una unidad de almacenamiento (normalmente un disco duro de una computadora), que luego será representada ya sea textual o gráficamente utilizando un [gestor de archivos](http://es.wikipedia.org/wiki/Gestor_de_archivos). La mayoría de los [sistemas operativos](http://es.wikipedia.org/wiki/Sistemas_operativos) manejan su propio sistema de archivos.
 
 Existen diversos tipos tales como ***ext2***, ***ext3***, ***ext4*** que son los tipos nativos de Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas hasta llegar a las hojas.
 
 
-<h3 id="7">Contacto</h3>
+<h3 id="6">Contacto</h3>
 En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la oficina de Software Libre:
 
 > Blog de la OSL: [osl.ugr.es](http://osl.ugr.es/)
