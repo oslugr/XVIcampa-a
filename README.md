@@ -1,2 +1,3 @@
-# XVI Campaña
-Manual usuario XVI campaña software libre
+### XVI Campaña
+
+* Manual de usuario XVI campaña software libre
