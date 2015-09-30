@@ -54,9 +54,9 @@ Un [entorno de escritorio](http://es.wikipedia.org/wiki/Entorno_de_escritorio) p
 
 <h4 id ="1_1"> Cuenta de usuario </h4>
 
-Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los siguientes datos:
+Posteriormente, nos aparece una pantalla que nos pide un usuario y contraseña. Introducimos los siguientes datos:
 
-> Usuario: invitado
+> Usuario: campaña16
 
 > Contraseña: .........
 
@@ -74,8 +74,9 @@ Tal y como se muestra en la siguiente imagen:
 
 ![](imagenes/2.png)
 
-Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
-> Contraseña: ..........
+Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que introducir la contraseña de usuario(campaña16):
+
+contraseña: ..........
 
 ![](imagenes/7.png)
 
@@ -187,9 +188,9 @@ Por ejemplo si accedemos a una foto llamada “osl.png” perteneciente al usuar
 
 > /home/serafin/Fotos/osl.png
 
-Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta:
+Bien pues la carpeta personal del usuario “campaña16” se encuentra en la ruta:
 
-> /home/invitado/
+> /home/campaña16/
 
 
 <h3 id="4">Instalar programas</h3>
