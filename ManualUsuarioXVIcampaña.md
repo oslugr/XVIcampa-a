@@ -75,7 +75,7 @@ Tal y como se muestra en la siguiente imagen:
 ![](imagenes/2.png)
 
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
-> Contraseña: osloslugr
+> Contraseña: ..........
 
 ![](imagenes/7.png)
 
