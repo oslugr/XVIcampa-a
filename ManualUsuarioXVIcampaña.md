@@ -4,7 +4,7 @@
 
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/).
 
-* Manuel Cogolludo
+* Manu Cogolludo
 * Renato Luis Rivero
 * Jose Alonso Arias
 
@@ -58,7 +58,7 @@ Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y
 
 > Usuario: invitado
 
-> Contraseña: osloslugr
+> Contraseña: .........
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
 
@@ -68,7 +68,7 @@ Si la hora indicada en la derecha del panel inferior no es correcta deberá segu
 
 Diríjase a:
 
-> Aplicaciones / Herramientas del sistema / Preferencias / Configuración del sistema
+> Aplicaciones / Herramientas del sistema / Configuración del sistema
 
 Tal y como se muestra en la siguiente imagen:
 
@@ -95,7 +95,7 @@ Firefox es uno de los navegadores que viene con el sistema operativo, su funcion
 Para usar la aplicación diríjase a:
 
 
-> Aplicaciones / Internet / Firefox
+> Aplicaciones / Internet / Navegador web (Firefox)
 
 
 <h4 id="2_2">LibreOffice</h4>
@@ -106,9 +106,9 @@ Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impre
 
 Para usar la aplicación diríjase a:
 
-> Aplicaciones / Oficina / LibreOffice Writer
+> Aplicaciones / Oficina / LibreOffice
 
-Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones (Impress), dibujos (Draw) o bases de datos. Para más información, diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
+Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones (Impress), dibujos (Draw) o bases de datos.
 
 
 <h4 id="2_3">Gedit</h4>
@@ -119,7 +119,7 @@ Gedit es una aplicación que sirve para editar ficheros de texto plano. Con Gedi
 
 Para usar la aplicación diríjase a:
 
-> Aplicaciones / Accesorios / Gedit
+> Aplicaciones / Accesorios / Editor de textos (Gedit)
 
 
 <h4 id="2_4">Gimp</h4>
@@ -132,7 +132,7 @@ También incluye muchos filtros y efectos para aplicar a los dibujos. Como quita
 
 Para usar la aplicación diríjase a:
 
-> Aplicaciones / Gráficos / Programa de manipulación imágenes GNU
+> Aplicaciones / Gráficos / Editor de imágenes (Gimp)
 
 
 <h4 id="2_5">Vlc</h4>
@@ -143,7 +143,7 @@ Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad 
 
 Para usar la aplicación diríjase a:
 
-> Aplicaciones / Sonido y vídeo / Reproductor multimedia VLC
+> Aplicaciones / Sonido y vídeo / Reproductor multimedia (VLC)
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
@@ -198,7 +198,7 @@ Cuando queremos instalar algún programa nuevo podemos hacerlo de muchas formas.
 
 Recordamos que la contraseña que hay que introducir es:
 
-> Contraseña: osloslugr
+> Contraseña: ..........
 
 <h4 id="4_1">Desde gestor de paquetes Synaptic</h4>
 
@@ -226,6 +226,11 @@ Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se n
 
 ![](imagenes/16.png)
 
+Se instala escribiendo el nombre del programa en el buscador, en este caso inkscape.
+Para abrir el centro de software de ubuntu, dirijasé a:
+
+> Aplicaciones / Herramientas del sistema / Administración / Centro de software de Ubuntu
+
 <h3 id="4_3">Otras formas de instalar programas</h3>
 <h4 id="4_3_1">Descargando el paquete desde la página web de la aplicación</h4>
 
@@ -244,7 +249,7 @@ En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados 
 
 > Blog de la OSL: [osl.ugr.es](http://osl.ugr.es/)
 
-> Oficina: c/ Real de Cartuja nº 36-38
+> Oficina: c/ Real de Cartuja nº 36-38 (planta baja)  C.P.18012 Granada
 
 Con los directores de la Oficina de Software Libre:
 
@@ -258,4 +263,4 @@ O con los técnicos informáticos encargados de los equipos donados:
 > Renato Ramirez Rivera: [renatolrr@gmail.com](mailto:renatolrr@gmail.com)
 > José Alonso Arias González [toblerone554@gmail.com](mailto:toblerone554@gmail.com)
 
-Manual adaptado del original, realizado por Serafín y Marina.
+Manual adaptado del original, realizado por Serafín Velez, Marina Torres y Manu Cogolludo.
