@@ -35,7 +35,7 @@ Esta obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercia
 
 <h3 id="1">Iniciar el equipo</h3>  
 
-Al arrancar el equipo deberá de aparecer una imagen de la Oficina de Software Libre con dos opciones de arranque.
+-Al arrancar el equipo deberá de aparecer una imagen de la Oficina de Software Libre con dos opciones de arranque.
 
 > Para iniciar el sistema de forma normal seleccionamos la primera opción de las dos posibles.
 
